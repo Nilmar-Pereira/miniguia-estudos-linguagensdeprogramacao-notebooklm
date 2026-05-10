@@ -6,7 +6,7 @@
  
 ## Contexto
  
-Este projeto foi desenvolvido como parte do desafio x do **Bootcamp  Afya - Automação de Dados com IA**. O O NotebookLM é uma ferramenta que permite criar um caderno de estudos inteligentes, capaz de responder perguntas, gerar resumos, criar áudios, vídeos e apresentações explicativas com base nas fontes que você mesmo fornece.
+Este projeto foi desenvolvido como parte do desafio x do **Bootcamp  Afya - Automação de Dados com IA**. O NotebookLM é uma ferramenta que permite criar um caderno de estudos inteligentes, capaz de responder perguntas, gerar resumos, criar áudios, vídeos e apresentações explicativas com base nas fontes que você mesmo fornece.
  
 O tema escolhido foi **linguagens de programação**, por ser um assunto fundamental na área de desenvolvimento e com amplo material técnico disponível para alimentar o caderno.
  
